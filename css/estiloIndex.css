@@ -1,0 +1,15 @@
+img{
+    height: 100px;
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+h2{ 
+    color: rgba(0, 17, 255, 0.817);
+}
+h3{
+    color: rgba(0, 17, 255, 0.817);
+}
+table, td, th {
+    border: 2px solid rgb(47, 80, 148);
+}

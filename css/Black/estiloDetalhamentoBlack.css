@@ -1,0 +1,19 @@
+h1{
+    color: rgba(0, 17, 255, 0.817);
+}
+h2{
+    color: rgba(252, 49, 49, 0.817);
+}
+h3{
+    color: rgb(255, 255, 255);
+}
+h4{
+    color: rgba(0, 17, 255, 0.817);
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+body{
+    background-color: rgb(44, 44, 44);
+}

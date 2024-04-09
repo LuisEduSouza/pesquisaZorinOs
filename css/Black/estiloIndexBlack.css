@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(44, 44, 44);
+}
+img{
+    height: 100px;
+    }
+table, tr, td, th{
+    border: 2px solid azure;
+}
+h1{
+    color: rgb(255, 240, 240);
+}
+h2{
+    color: rgba(0, 17, 255, 0.817);
+}
+h3{
+    color: rgba(0, 17, 255, 0.817);
+}
+h4{
+    color: aliceblues;
+}
+table, tr, td, th{
+    color: aliceblue;
+}
